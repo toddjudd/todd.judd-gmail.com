@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "stylus": "^0.54.7"
   },
   "scripts": {
